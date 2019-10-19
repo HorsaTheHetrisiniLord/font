@@ -4,8 +4,8 @@
 
 @font-face {
     font-family: 'earwig_factoryregular';
-    src: url('earwig_factory_rg-webfont.woff2') format('woff2'),
-         url('earwig_factory_rg-webfont.woff') format('woff');
+    src: url('https://github.com/HorsaTheHetrisiniLord/font/blob/master/earwig_factory_rg-webfont.woff2') format('woff2'),
+         url('https://github.com/HorsaTheHetrisiniLord/font/blob/master/earwig_factory_rg-webfont.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 
